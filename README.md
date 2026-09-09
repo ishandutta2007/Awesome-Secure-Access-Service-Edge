@@ -84,7 +84,7 @@ Open-source technologies form the critical foundation of modern Zero Trust and S
 
 The projects below are sorted in descending order by **GitHub Star Counts** (with live social badges linking to their respective stargazers):
 
-| Repository / Project | Stars Badge | Architecture / Primary Role | Description |
+| Repository / Project | Stars_Badge | Architecture / Primary Role | Description |
 | :--- | :---: | :--- | :--- |
 | **[Headscale](https://github.com/juanfont/headscale)** | [![GitHub_Stars](https://img.shields.io/github/stars/juanfont/headscale?style=social&color=white)](https://github.com/juanfont/headscale/stargazers) | Self-Hosted Coordination Server (ZTNA Control Plane) | Open-source, self-hosted implementation of the Tailscale coordination server. Enables sovereign, private mesh networks using official Tailscale client applications. |
 | **[Tailscale Client Core](https://github.com/tailscale/tailscale)** | [![GitHub_Stars](https://img.shields.io/github/stars/tailscale/tailscale?style=social&color=white)](https://github.com/tailscale/tailscale/stargazers) | Mesh VPN Client & Coordination Protocol | Cross-platform WireGuard-based mesh client and networking utilities connecting computers, servers, and cloud instances across NATs and firewalls. |
